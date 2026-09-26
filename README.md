@@ -88,7 +88,7 @@ Example: `![Dashboard Preview](https://github.com/username/repo/assets/image.png
 
 ### Interactive Sales Dashboard Overview
 
-`![SuperStore Sales Dashboard](https://github.com/your-username/superstore-sales-powerbi/assets/dashboard.png)`
+`![SuperStore Sales Dashboard](https://github.com/samadhanshinde1007-dev/SuperStore-Sales-Project/blob/main/SuperStore%20Sales%20Dashboard.png)`
 
 ### 15-Day Sales Forecasting View
 
