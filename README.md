@@ -82,14 +82,10 @@ An interactive Power BI analytics solution designed for **SuperStore Sales**, tr
 
 ## 6. Screenshots / Demos
 
-Show what the dashboard looks like. - `![Alt_text](https://github.com/username/repo/assets/image.png)`[cite: 3]
-
-Example: `![Dashboard Preview](https://github.com/username/repo/assets/image.png)`[cite: 3]
-
 ### Interactive Sales Dashboard Overview
 
-*![SuperStore Sales Dashboard](https://github.com/samadhanshinde1007-dev/SuperStore-Sales-Project/blob/main/SuperStore%20Sales%20Dashboard.png)
+![SuperStore Sales Dashboard](https://github.com/samadhanshinde1007-dev/SuperStore-Sales-Project/blob/main/SuperStore%20Sales%20Dashboard.png)
 
 ### 15-Day Sales Forecasting View
 
-`![SuperStore Sales Forecast](https://github.com/your-username/superstore-sales-powerbi/assets/forecast.png)`
+![SuperStore Sales Forecast](https://github.com/samadhanshinde1007-dev/SuperStore-Sales-Project/blob/main/SuperStore%20Sales%20Forecast.png)
